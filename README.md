@@ -13,6 +13,7 @@ What this script does is to compare two files (file1 and file2). It then:
 **Note**
 
 File 1 and File 2 has to be in plain text format. csv and txt are fine.
+
 ---
 
 - Download **diff.py** to the same folder where both file 1 and file 2 resides.
